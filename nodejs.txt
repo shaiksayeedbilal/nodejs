@@ -1,0 +1,433 @@
+what is node js?
+->node js is not a language
+->this is a server side environment
+->nodejs can connect with database
+->code and syntax is very similar to javascript
+->node js free and open source
+->node js use chromes v8 engine to execute code
+
+why do we use node?
+===================================
+node js mostly used for api
+=>so we can connect the dame database with webapp,mobile app
+->node is easy to understand who knows javascript
+->node js super-fast for apis
+->with node and javascript you can become full stack developer
+
+history and more
+=====================
+first release may 27 2009
+current verison 16.4
+wriiteen in c and c++
+
+javascript and node are the same
+============================
+javascript adn node js code synatax is same
+->if you know javascript you can easily understand node js
+->but both are not exactly same
+->you can not conntect javascript to database
+->node js run on the server side
+->javascript runs on the browser
+
+why should learn 
+=========================
+if you are a javascript developer then you can easy learn node
+=>you can become a full stack developer
+->free and ind demoand for jobs
+->salary  is also good as compare to web developer
+
+
+
+basic before getting start
+==================================
+whar are client and server side?
+===================================================
+client machine     request
+                --------------------->  server
+javascript,html,css<---------------------- node js and python
+                        response          
+
+how node js use javascript?
+========================================
+javascript and node js use chromes v8 engine
+
+v8 engine is written c++  
+
+
+
+
+
+
+
+
+->where do we use node (client or server side)
+->how nodejs use javascript
+->what developer make with nodejs
+
+
+fundamentals of node js
+===================================
+javascript fundamental for nodejjs
+->conditons ,loops and array
+->the import function and variables
+->interview questions
+
+
+what are the core modules?
+======================================
+-
+
+
+
+
+make basic server output on browser
+==================================
+make basic server
+->function parameter in node
+->arrow function
+->get output on broweser
+
+
+
+====================================================
+
+node js  : it is backend framework 
+
+why should you join this course
+========================================
+we will cover all topics with example
+->we will work with api and database
+->will we make a project with react and angular
+->interview questions for jobs
+
+
+this videos topics
+=================================
+what is node?
+============================
+node is not a language
+->this is aserver-environment
+->node js can connect with database
+->code and synatax is very similar to js
+->but not exactly the same
+->node js free open source
+->node js free open-source
+->node js use chormes v8 engine to execute code
+
+why do we use it?
+==================================
+node js mostly used for api
+->so we can connect th same database with web app, mobile app
+->node is easy to understand who know javascript
+->node is super-fast for apis
+->with node and javascript you can become full stack developer
+
+
+history of node
+===============================
+first release may 27 2009
+current verison 16.4
+written in c ,c++
+
+are node and javascript the same?
+============================================
+javascript and node js code syntax is same
+->if you know js you can easily understand node
+->but both are not exactly the same
+->you can not connect js to database
+->node can connect with database
+->node js run on the server side
+->js is run on the browser
+
+
+why you should learn node js?
+===============================================
+
+if you are a javascript developer then you can easy learn node
+->you can become a full stack developer
+->free and in demand for jobs
+->salary is also good as compare to web developer or php developer 
+
+
+major topics
+===========================
+ what is node js?
+
+ how it works
+
+ ->install and run
+ ->make basic api
+ ->use with express.js
+ ->ui with node
+  ui event 
+  forms 
+  webpages 
+node js event
+->middleware
+->major package
+->connect with database
+->make major api
+->api security and token
+->api validation
+->project 
+->live with server
+
+basic before getting start
+=====================================
+what are client and server sides?
+where do we use node (client or server side)
+how node js use js?
+what developer make with node js?
+
+
+client and server sides?
+========================================
+           request
+client ------------------------>     server
+javascript
+html css    <--------------------------- node js
+                      response 
+
+how node js use javascript?
+========================================
+in chrome browser use v8 engine  
+v8 engine is wriiteen in c and c++
+
+what developer make with node js?
+======================================
+developers make api with node js
+-> so we can connect   server with client 
+->node can make api for web , android and ios exactly
+->node js can also make websitew
+
+web app  <---------------->server <------------->database
+
+install and setup node js
+==================================
+download node javascript
+install npm and node
+list of recommended code editor
+
+commands
+=============
+to see the verison of node js
+->node -v
+->npm -node package manager
+
+first script with node
+===================
+script with command line
+make folder and file
+write first code and run
+interview questions
+
+
+
+2 lesson fundamental of node js
+========================
+javascript fundamental for node js
+->conditons ,loops and array
+->the import function and variables from another file
+->interview questions
+
+
+6lesson
+====================
+core modules in node js
+======================
+1)what are the core modules?
+modules which are predefined in node js are known as core modules
+
+2)what are global modules?
+
+
+3)global model example
+4)non-global module with example
+5)interview questions
+
+
+
+7 lesson 
+================
+make basic server output on browser
+====================
+we require http module to make server to handle request and response
+
+8 chapter
+=================
+what is package file?
+========================
+ans->  package.json stores the details of project related to coding 
+->how to make it ?
+->
+->check the file in details
+->install external package
+->interview question
+ 
+
+ node js is single threaded 
+
+10 small challenge for you
+============================
+
+challenge for you?
+what happens if the node module is folder is deleted?
+->correct way to push data on git 
+
+nodeman 
+======================
+what is nodeman package?
+how to install it?
+how to use it?
+
+
+
+node js is async
+run first script
+run secodn script
+
+11)chapter
+------------------
+make a server
+create header and api body
+create an api with static data
+put data in another file 
+
+
+12)input from command line
+->SET input from command line
+->create file with input
+->delete the file with input
+->interview questions
+
+
+13)make file in a folder 
+use path module 
+get file names and print
+interview question
+
+14)crudd operations with file system
+
+.make file 
+.read file
+.update file
+.rename file
+.delete file 
+.interview question
+
+
+17)how node js works
+====================
+1)call stack
+2)node api
+3)call back queue
+4)example
+5)interview question
+
+
+
+
+18)what is express js
+install express
+make example with express js
+.interview question
+
+90 % of node js application will include express js
+
+
+
+20)render html and json
+=========================
+
+
+23)what is template engine?
+->install ejs template package.
+->setup dynamic routing
+->make dynamic page 
+->interview question
+
+
+24)how to make loop in  ejs
+->make header file
+->show common header file
+->interview question
+
+
+25)what are middleware?
+->how to make a middleware?
+->apply middleware on routes
+->types of middleware
+->interview questions
+
+
+types of middleware
+=========================
+
+
+route level middleware
+===============================
+->route level middleware
+->apply middleware on single route
+->make middleware in different file
+->apply middleware in the group of route
+
+
+
+
+
+27)install mongo database
+=========================
+->download mongo database
+->install mongo database
+->set environment for mongo
+->mongodb compass tool
+->interview questions
+
+
+28)what is mongo database?
+============================
+mongo database is a nosql database
+->the data stored in a collection
+->collection dont have row and columns
+->data is stored in the form of object
+
+29)crud operations in mangodb
+=========================
+how to insert data collections
+->how to check inserted data
+->how to update data
+->how to delete data
+->interview questions
+
+
+31)read data from mongodb
+->read data from mongodb
+->make file for db connections
+->handle promise
+->interview questions
+
+
+32)insert data from mongodb
+->make new file for insert data
+->import mongodb connections
+->insert single and multiple records 
+->interview questions
+
+34)delete data in mongo db
+====================
+->make new file for delete data
+->import mongodb connections
+->delete single and multiple records
+->
+
+36)api with mongo db
+===========================
+make new file for api
+import and use mongo config
+->make api for get data
+->test with postman
+->interview questions
+
+
+
+
